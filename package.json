@@ -1,0 +1,27 @@
+{
+  "name": "platzigram-back",
+  "version": "1.0.0",
+  "description": "Practica JS para realizar una app",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexballera/javascript-platzigram-back.git"
+  },
+  "author": "Alex Ballera <alexballera@gmail.com> (http://alexballera.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexballera/javascript-platzigram-back/issues"
+  },
+  "homepage": "https://github.com/alexballera/javascript-platzigram-back#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "standard": "^8.6.0"
+  }
+}
