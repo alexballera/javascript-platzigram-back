@@ -1,17 +1,24 @@
 'use strict'
-
 import test from 'ava'
+import utils from '../lib/utils'
 
-test('Este test va a pasar', t => {
-  t.pass()
-})
+test('Extrayendo hashtags del texto', t => {
+  let tags = utils.extractTags('a #picture whit ##tags #AweSOme #Ava #Platzi y #100')
+  t.deepEqual(tags, [
+    'picture',
+    'tags',
+    'awesome',
+    'Ava',
+    'platzi',
+    '100'
+  ])
 
-test('Este test deberia fallar', t => {
-  t.fail()
-})
+  tags = utils.extractTags('a picture with no tags')
+  t.deepEqual(tags, [])
 
-test('Este test debería soportar async/await', async t => {
-  let p = Promise.resolve(42)
-  let secret = await p
-  t.is(secret, 42)
+  tags = utils.extractTags()
+  t.deepEqual(tags, [])
+
+  tags = utils.extractTags(null)
+  t.deepEqual(tags, [])
 })
