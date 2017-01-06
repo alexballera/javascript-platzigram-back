@@ -9,7 +9,7 @@ npm i -D
 
 ### Dependencias de Desarrollo
 ```bash
-npm i -S standard babel-eslint
+npm i -S standard babel-eslint ava
 ```
 ## Standard (Linter)
 [https://github.com/feross/standard](https://github.com/feross/standard)
@@ -25,5 +25,16 @@ Agregar un script en **package.json** para utilizar **standard** y como **babel-
 },
 "standard": {
   "parser": "babel-eslint"
+}
+```
+
+## Test
+### Instalamos AVA
+[https://github.com/avajs/ava](https://github.com/avajs/ava)
+
+```javascript
+"scripts": {
+  "lint": "standard",
+  "test": "npm run lint && ava"
 }
 ```
