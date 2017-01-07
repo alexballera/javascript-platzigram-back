@@ -20,3 +20,17 @@
 2017-01-06T20:14:05.403486523 105.643207s notice: All client connections closed.
 2017-01-06T20:14:05.403490289 105.643211s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2017-01-06T20:14:05.457928424 105.697649s notice: Storage engine shut down.
+2017-01-06T20:55:38.867150865 0.889043s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-01-06T20:55:39.536557778 1.558452s notice: Running on Linux 4.4.0-57-generic x86_64
+2017-01-06T20:55:39.536645975 1.558538s notice: Loading data from directory /home/alex/Documents/javascript/platzigram-back/rethinkdb_data
+2017-01-06T20:55:41.515975954 3.537868s info: Automatically using cache size of 100 MB
+2017-01-06T20:55:41.516153429 3.538045s warn: Cache size does not leave much memory for server and query overhead (available memory: 950 MB).
+2017-01-06T20:55:41.516157579 3.538049s warn: Cache size is very low and may impact performance.
+2017-01-06T20:55:41.520293832 3.542186s notice: Listening for intracluster connections on port 29015
+2017-01-06T20:55:41.767579179 3.789471s notice: Listening for client driver connections on port 28015
+2017-01-06T20:55:41.767759466 3.789651s notice: Listening for administrative HTTP connections on port 8080
+2017-01-06T20:55:41.767765897 3.789657s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-06T20:55:41.767767047 3.789658s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-06T20:55:41.767770158 3.789662s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-06T20:55:41.767775122 3.789667s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-01-06T20:55:41.767782125 3.789674s notice: Server ready, "alex_1rm" 7c43bee1-afbe-4d55-9b49-5b941ca593d3
