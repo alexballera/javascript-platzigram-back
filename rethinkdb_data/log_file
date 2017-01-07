@@ -1,0 +1,22 @@
+2017-01-06T20:12:20.806833709 1.046558s notice: Recursively removing directory /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/tmp
+2017-01-06T20:12:20.954096769 1.193818s notice: Initializing directory /home/alex/Documents/javascript/platzigram-back/rethinkdb_data
+2017-01-06T20:12:20.998202970 1.237925s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/alex/Documents/javascript/platzigram-back/rethinkdb_data' did not already exist or is empty.)
+2017-01-06T20:12:20.998398415 1.238120s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-01-06T20:12:21.096495667 1.336219s notice: Running on Linux 4.4.0-57-generic x86_64
+2017-01-06T20:12:21.096569363 1.336290s notice: Loading data from directory /home/alex/Documents/javascript/platzigram-back/rethinkdb_data
+2017-01-06T20:12:22.357880843 2.597602s info: Automatically using cache size of 100 MB
+2017-01-06T20:12:22.358119184 2.597840s warn: Cache size does not leave much memory for server and query overhead (available memory: 1054 MB).
+2017-01-06T20:12:22.358126693 2.597847s warn: Cache size is very low and may impact performance.
+2017-01-06T20:12:22.371258706 2.610980s notice: Listening for intracluster connections on port 29015
+2017-01-06T20:12:22.437046446 2.676767s notice: Listening for client driver connections on port 28015
+2017-01-06T20:12:22.437407776 2.677129s notice: Listening for administrative HTTP connections on port 8080
+2017-01-06T20:12:22.437417227 2.677138s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-06T20:12:22.437420680 2.677141s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-06T20:12:22.437426534 2.677147s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-06T20:12:22.437429664 2.677150s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-01-06T20:12:22.437435471 2.677156s notice: Server ready, "alex_1rm" 7c43bee1-afbe-4d55-9b49-5b941ca593d3
+2017-01-06T20:14:05.403236670 105.642958s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-01-06T20:14:05.403388137 105.643109s notice: Shutting down client connections...
+2017-01-06T20:14:05.403486523 105.643207s notice: All client connections closed.
+2017-01-06T20:14:05.403490289 105.643211s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-01-06T20:14:05.457928424 105.697649s notice: Storage engine shut down.

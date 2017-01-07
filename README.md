@@ -38,3 +38,33 @@ Agregar un script en **package.json** para utilizar **standard** y como **babel-
   "test": "npm run lint && ava"
 }
 ```
+
+## Base de Datos Retthinkdb
+[https://www.rethinkdb.com/](https://www.rethinkdb.com/)
+
+## Instalación Ubuntu
+[https://www.rethinkdb.com/docs/install/ubuntu/](https://www.rethinkdb.com/docs/install/ubuntu/)
+
+```bash
+source /etc/lsb-release && echo "deb http://download.rethinkdb.com/apt $DISTRIB_CODENAME main" | sudo tee /etc/apt/sources.list.d/rethinkdb.list
+```
+
+```bash
+wget -qO- https://download.rethinkdb.com/apt/pubkey.gpg | sudo apt-key add -
+```
+
+```bash
+sudo apt-get update
+```
+
+```bash
+sudo apt-get install rehinkdb
+```
+
+## Levantamos la base de Datos
+
+```bash
+rethinkdb
+```
+
+y en el navegador ingrasamos en **http://localhost:8080**
