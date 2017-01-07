@@ -75,6 +75,4 @@ y en el navegador ingrasamos en **[http://localhost:8080](http://localhost:8080)
 ## Utilizaremos bluebird para el manejo de las promesas
 [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
 
-Estamos en el video 2.Accediendo a la base de Datos ir al minuto 9
-vamos a usar co... aun sin instalar
-https://github.com/tj/co
+# Video 2 Accediendo a la DB RethinkDB desde node
