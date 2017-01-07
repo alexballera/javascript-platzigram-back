@@ -4,7 +4,7 @@
 
 ### Dependencias
 ```bash
-npm i -D rethinkdb co bluebird
+npm i -D rethinkdb co bluebird uuid-base62
 ```
 
 ### Dependencias de Desarrollo

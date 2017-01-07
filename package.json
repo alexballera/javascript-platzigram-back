@@ -29,6 +29,7 @@
     "ava": "^0.17.0",
     "babel-eslint": "^7.1.1",
     "rethinkdb": "^2.3.3",
-    "standard": "^8.6.0"
+    "standard": "^8.6.0",
+    "uuid-base62": "^0.1.0"
   }
 }
