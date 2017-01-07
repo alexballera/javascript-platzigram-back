@@ -34,3 +34,26 @@
 2017-01-06T20:55:41.767770158 3.789662s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
 2017-01-06T20:55:41.767775122 3.789667s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
 2017-01-06T20:55:41.767782125 3.789674s notice: Server ready, "alex_1rm" 7c43bee1-afbe-4d55-9b49-5b941ca593d3
+2017-01-06T21:05:30.828967715 592.850860s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-01-06T21:05:30.926033683 592.947927s notice: Shutting down client connections...
+2017-01-06T21:05:30.932565723 592.954458s notice: All client connections closed.
+2017-01-06T21:05:30.932585112 592.954477s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-01-06T21:05:33.022851035 595.044744s notice: Storage engine shut down.
+2017-01-07T10:22:48.705850718 0.782160s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-01-07T10:22:48.754415337 0.830727s notice: Running on Linux 4.4.0-57-generic x86_64
+2017-01-07T10:22:48.754505044 0.830813s notice: Loading data from directory /home/alex/Documents/javascript/platzigram-back/rethinkdb_data
+2017-01-07T10:22:49.111356989 1.187665s info: Automatically using cache size of 101 MB
+2017-01-07T10:22:49.113807446 1.190116s notice: Listening for intracluster connections on port 29015
+2017-01-07T10:22:49.198253900 1.274563s notice: Listening for client driver connections on port 28015
+2017-01-07T10:22:49.198725111 1.275034s notice: Listening for administrative HTTP connections on port 8080
+2017-01-07T10:22:49.198736838 1.275045s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-07T10:22:49.198739304 1.275047s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-07T10:22:49.198753312 1.275061s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-07T10:22:49.198759623 1.275067s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-01-07T10:22:49.198772312 1.275080s notice: Server ready, "alex_1rm" 7c43bee1-afbe-4d55-9b49-5b941ca593d3
+2017-01-07T10:34:33.092448730 705.168757s info: Table d33e1bcc-364e-459c-8222-b01ed1094c93: Starting a new Raft election for term 1.
+2017-01-07T10:34:33.095801147 705.172110s info: Table d33e1bcc-364e-459c-8222-b01ed1094c93: Added replica on this server.
+2017-01-07T10:34:33.280552927 705.356861s info: Table d33e1bcc-364e-459c-8222-b01ed1094c93: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-07T10:34:34.884686127 706.960995s info: Table 96682c6e-f598-46bd-a6da-cad4ae6cb5dc: Starting a new Raft election for term 1.
+2017-01-07T10:34:34.885303851 706.961612s info: Table 96682c6e-f598-46bd-a6da-cad4ae6cb5dc: Added replica on this server.
+2017-01-07T10:34:35.007959979 707.084268s info: Table 96682c6e-f598-46bd-a6da-cad4ae6cb5dc: This server is Raft leader for term 1. Latest log index is 0.

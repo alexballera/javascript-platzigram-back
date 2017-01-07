@@ -4,7 +4,7 @@
 
 ### Dependencias
 ```bash
-npm i -D
+npm i -D rethinkdb co bluebird
 ```
 
 ### Dependencias de Desarrollo
@@ -67,4 +67,14 @@ sudo apt-get install rehinkdb
 rethinkdb
 ```
 
-y en el navegador ingrasamos en **http://localhost:8080**
+y en el navegador ingrasamos en **[http://localhost:8080](http://localhost:8080)**
+
+## Utilizaremos co para simular async/await en es2015
+[https://github.com/tj/co](https://github.com/tj/co)
+
+## Utilizaremos bluebird para el manejo de las promesas
+[http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
+
+Estamos en el video 2.Accediendo a la base de Datos ir al minuto 9
+vamos a usar co... aun sin instalar
+https://github.com/tj/co

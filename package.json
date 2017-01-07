@@ -20,10 +20,15 @@
     "url": "https://github.com/alexballera/javascript-platzigram-back/issues"
   },
   "homepage": "https://github.com/alexballera/javascript-platzigram-back#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "co": "^4.6.0",
+    "rethinkdb": "^2.3.3"
+  },
   "devDependencies": {
     "ava": "^0.17.0",
     "babel-eslint": "^7.1.1",
+    "rethinkdb": "^2.3.3",
     "standard": "^8.6.0"
   }
 }
