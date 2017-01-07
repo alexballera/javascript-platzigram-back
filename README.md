@@ -75,4 +75,4 @@ y en el navegador ingrasamos en **[http://localhost:8080](http://localhost:8080)
 ## Utilizaremos bluebird para el manejo de las promesas
 [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
 
-# "Video 3 Creacion de test para RethinkDB y Almacenamiento de ruta de imagen"
+# "Video 4 Almacenamiento de rutas de img en Rethink"
