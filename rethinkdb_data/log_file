@@ -123,3 +123,34 @@
 2017-01-07T17:22:31.276460990 3209.131119s notice: All client connections closed.
 2017-01-07T17:22:31.276480058 3209.131138s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2017-01-07T17:22:31.285940100 3209.140599s notice: Storage engine shut down.
+2017-01-07T17:25:09.807679574 0.558141s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-01-07T17:25:09.814682519 0.565148s notice: Running on Linux 4.4.0-57-generic x86_64
+2017-01-07T17:25:09.814820849 0.565281s notice: Loading data from directory /home/alex/Documents/javascript/platzigram-back/rethinkdb_data
+2017-01-07T17:25:09.956759666 0.707220s info: Automatically using cache size of 168 MB
+2017-01-07T17:25:09.957683949 0.708144s notice: Listening for intracluster connections on port 29015
+2017-01-07T17:25:10.055251245 0.805711s notice: Listening for client driver connections on port 28015
+2017-01-07T17:25:10.055488294 0.805948s notice: Listening for administrative HTTP connections on port 8080
+2017-01-07T17:25:10.055553298 0.806013s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-07T17:25:10.055557400 0.806017s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-07T17:25:10.055561080 0.806021s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-07T17:25:10.055564414 0.806024s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-01-07T17:25:10.055567970 0.806027s notice: Server ready, "alex_1rm" 7c43bee1-afbe-4d55-9b49-5b941ca593d3
+2017-01-07T17:25:11.658152462 2.408613s info: Table 96682c6e-f598-46bd-a6da-cad4ae6cb5dc: Starting a new Raft election for term 3.
+2017-01-07T17:25:11.745216737 2.495677s info: Table 96682c6e-f598-46bd-a6da-cad4ae6cb5dc: This server is Raft leader for term 3. Latest log index is 6.
+2017-01-07T17:25:11.878628669 2.629089s info: Table d33e1bcc-364e-459c-8222-b01ed1094c93: Starting a new Raft election for term 3.
+2017-01-07T17:25:12.219534822 2.969995s info: Table d33e1bcc-364e-459c-8222-b01ed1094c93: This server is Raft leader for term 3. Latest log index is 6.
+2017-01-07T17:35:17.326448064 608.076908s info: Table b8fd3065-c889-4c17-9703-34940b5b343c: Starting a new Raft election for term 1.
+2017-01-07T17:35:17.326632561 608.077092s info: Table b8fd3065-c889-4c17-9703-34940b5b343c: Added replica on this server.
+2017-01-07T17:35:17.418277618 608.168738s info: Table b8fd3065-c889-4c17-9703-34940b5b343c: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-07T17:35:18.942553315 609.693013s info: Table 62a63954-6895-4e10-8909-ed9116f6bcfd: Starting a new Raft election for term 1.
+2017-01-07T17:35:18.942761633 609.693221s info: Table 62a63954-6895-4e10-8909-ed9116f6bcfd: Added replica on this server.
+2017-01-07T17:35:19.025133458 609.775593s info: Table 62a63954-6895-4e10-8909-ed9116f6bcfd: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-07T17:35:20.105816106 610.856276s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/62a63954-6895-4e10-8909-ed9116f6bcfd
+2017-01-07T17:35:20.105826508 610.856286s info: Table 62a63954-6895-4e10-8909-ed9116f6bcfd: Deleted the table.
+2017-01-07T17:35:20.182055949 610.932516s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/b8fd3065-c889-4c17-9703-34940b5b343c
+2017-01-07T17:35:20.182064744 610.932524s info: Table b8fd3065-c889-4c17-9703-34940b5b343c: Deleted the table.
+2017-01-07T17:35:28.969018449 619.719479s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-01-07T17:35:28.969174723 619.719635s notice: Shutting down client connections...
+2017-01-07T17:35:28.969355417 619.719815s notice: All client connections closed.
+2017-01-07T17:35:28.969365851 619.719825s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-01-07T17:35:28.975076372 619.725537s notice: Storage engine shut down.
