@@ -87,4 +87,4 @@ $ node
 ```
 y así obtenemos el password encriptado  
 
-# "Video 12 Control de errores mediante excepciones (try, cath, throws)"
+# "Video 13 Implementado modulo de listar imagenes por usuario"
