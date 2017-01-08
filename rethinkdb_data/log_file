@@ -830,3 +830,213 @@
 2017-01-08T14:38:16.475620887 18543.427954s info: Table 894196d2-ce5d-4c9b-acb0-ef7a4200bc9d: Deleted the table.
 2017-01-08T14:38:16.561189081 18543.513522s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/d76ba365-cdce-438a-9dc0-53b39a03b686
 2017-01-08T14:38:16.561200990 18543.513534s info: Table d76ba365-cdce-438a-9dc0-53b39a03b686: Deleted the table.
+2017-01-08T16:17:58.846197046 24525.798530s info: Table dca77398-7bd8-41f0-9294-fb5b3bf67afc: Starting a new Raft election for term 1.
+2017-01-08T16:17:58.846380090 24525.798713s info: Table dca77398-7bd8-41f0-9294-fb5b3bf67afc: Added replica on this server.
+2017-01-08T16:17:58.846388938 24525.798722s info: Table 927e3ddb-762c-4d43-92cb-75cdabb102cb: Starting a new Raft election for term 1.
+2017-01-08T16:17:58.846531374 24525.798864s info: Table 927e3ddb-762c-4d43-92cb-75cdabb102cb: Added replica on this server.
+2017-01-08T16:17:58.870055074 24525.822388s info: Table 592db0a5-63df-4e79-bdc4-550be5d5b970: Starting a new Raft election for term 1.
+2017-01-08T16:17:58.870132906 24525.822466s info: Table 0990249b-dcb9-4965-bb8c-9396c34f5050: Starting a new Raft election for term 1.
+2017-01-08T16:17:58.892785398 24525.845119s info: Table 592db0a5-63df-4e79-bdc4-550be5d5b970: Added replica on this server.
+2017-01-08T16:17:58.893043883 24525.845379s info: Table 0990249b-dcb9-4965-bb8c-9396c34f5050: Added replica on this server.
+2017-01-08T16:17:58.893131577 24525.845464s info: Table e857d8a7-0b00-4656-bd7a-360d0a46bd0e: Starting a new Raft election for term 1.
+2017-01-08T16:17:58.915134724 24525.867468s info: Table e857d8a7-0b00-4656-bd7a-360d0a46bd0e: Added replica on this server.
+2017-01-08T16:17:58.915286092 24525.867619s info: Table 2193f789-690b-4bc6-8442-861d6e56101b: Starting a new Raft election for term 1.
+2017-01-08T16:17:58.915800148 24525.868133s info: Table 2193f789-690b-4bc6-8442-861d6e56101b: Added replica on this server.
+2017-01-08T16:17:59.036402856 24525.988736s info: Table dca77398-7bd8-41f0-9294-fb5b3bf67afc: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:17:59.036449254 24525.988782s info: Table 927e3ddb-762c-4d43-92cb-75cdabb102cb: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:17:59.103140114 24526.055473s info: Table 592db0a5-63df-4e79-bdc4-550be5d5b970: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:17:59.103233958 24526.055567s info: Table 0990249b-dcb9-4965-bb8c-9396c34f5050: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:17:59.103268679 24526.055601s info: Table e857d8a7-0b00-4656-bd7a-360d0a46bd0e: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:17:59.103304406 24526.055637s info: Table 2193f789-690b-4bc6-8442-861d6e56101b: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:18:00.576579752 24527.528913s info: Table 927e3ddb-762c-4d43-92cb-75cdabb102cb: Configuration is changing.
+2017-01-08T16:18:00.602677757 24527.555011s info: Table dca77398-7bd8-41f0-9294-fb5b3bf67afc: Configuration is changing.
+2017-01-08T16:18:02.225750581 24529.178084s info: Table 966bee05-0478-49b1-92a6-7b38e29bc1c2: Starting a new Raft election for term 1.
+2017-01-08T16:18:02.225994936 24529.178328s info: Table 966bee05-0478-49b1-92a6-7b38e29bc1c2: Added replica on this server.
+2017-01-08T16:18:02.393324065 24529.345657s info: Table 75cada92-449d-48f6-b2cb-771bc9e0d716: Starting a new Raft election for term 1.
+2017-01-08T16:18:02.393495639 24529.345829s info: Table 75cada92-449d-48f6-b2cb-771bc9e0d716: Added replica on this server.
+2017-01-08T16:18:02.550202927 24529.502536s info: Table 592db0a5-63df-4e79-bdc4-550be5d5b970: Configuration is changing.
+2017-01-08T16:18:02.550590844 24529.502924s info: Table 0990249b-dcb9-4965-bb8c-9396c34f5050: Configuration is changing.
+2017-01-08T16:18:02.570786333 24529.523119s info: Table 966bee05-0478-49b1-92a6-7b38e29bc1c2: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:18:02.570889720 24529.523222s info: Table 75cada92-449d-48f6-b2cb-771bc9e0d716: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:18:02.572558427 24529.524892s info: Table e857d8a7-0b00-4656-bd7a-360d0a46bd0e: Configuration is changing.
+2017-01-08T16:18:02.574610965 24529.526944s info: Table 2193f789-690b-4bc6-8442-861d6e56101b: Configuration is changing.
+2017-01-08T16:18:04.667637093 24531.619971s info: Table a56e9551-c359-494b-acb6-721685347b2c: Starting a new Raft election for term 1.
+2017-01-08T16:18:04.668375026 24531.620708s info: Table a56e9551-c359-494b-acb6-721685347b2c: Added replica on this server.
+2017-01-08T16:18:04.798089333 24531.750423s info: Table ae48ce09-ab01-4452-a203-1384c2480a75: Starting a new Raft election for term 1.
+2017-01-08T16:18:04.798915448 24531.751249s info: Table ae48ce09-ab01-4452-a203-1384c2480a75: Added replica on this server.
+2017-01-08T16:18:05.606658983 24532.558992s info: Table 35c0bfa6-ffbb-49aa-8159-59d63876e196: Starting a new Raft election for term 1.
+2017-01-08T16:18:05.606809383 24532.559142s info: Table 35c0bfa6-ffbb-49aa-8159-59d63876e196: Added replica on this server.
+2017-01-08T16:18:05.640479756 24532.592814s info: Table 3ccf7e3f-1870-45b6-bcad-a942c3bb035e: Starting a new Raft election for term 1.
+2017-01-08T16:18:05.640889482 24532.593222s info: Table 3ccf7e3f-1870-45b6-bcad-a942c3bb035e: Added replica on this server.
+2017-01-08T16:18:05.772988231 24532.725321s info: Table a56e9551-c359-494b-acb6-721685347b2c: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:18:05.773056863 24532.725390s info: Table ae48ce09-ab01-4452-a203-1384c2480a75: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:18:05.840022058 24532.792355s info: Table 35c0bfa6-ffbb-49aa-8159-59d63876e196: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:18:05.840222462 24532.792555s info: Table 3ccf7e3f-1870-45b6-bcad-a942c3bb035e: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:18:07.662112835 24534.614446s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/927e3ddb-762c-4d43-92cb-75cdabb102cb
+2017-01-08T16:18:07.662120905 24534.614453s info: Table 927e3ddb-762c-4d43-92cb-75cdabb102cb: Deleted the table.
+2017-01-08T16:18:07.672769317 24534.625102s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/75cada92-449d-48f6-b2cb-771bc9e0d716
+2017-01-08T16:18:07.672777215 24534.625110s info: Table 75cada92-449d-48f6-b2cb-771bc9e0d716: Deleted the table.
+2017-01-08T16:18:07.794025861 24534.746359s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/966bee05-0478-49b1-92a6-7b38e29bc1c2
+2017-01-08T16:18:07.794034973 24534.746368s info: Table 966bee05-0478-49b1-92a6-7b38e29bc1c2: Deleted the table.
+2017-01-08T16:18:07.813815777 24534.766149s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/dca77398-7bd8-41f0-9294-fb5b3bf67afc
+2017-01-08T16:18:07.813827036 24534.766160s info: Table dca77398-7bd8-41f0-9294-fb5b3bf67afc: Deleted the table.
+2017-01-08T16:18:08.255229097 24535.207562s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/592db0a5-63df-4e79-bdc4-550be5d5b970
+2017-01-08T16:18:08.255237396 24535.207570s info: Table 592db0a5-63df-4e79-bdc4-550be5d5b970: Deleted the table.
+2017-01-08T16:18:08.453600967 24535.405934s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/35c0bfa6-ffbb-49aa-8159-59d63876e196
+2017-01-08T16:18:08.453609289 24535.405942s info: Table 35c0bfa6-ffbb-49aa-8159-59d63876e196: Deleted the table.
+2017-01-08T16:18:08.519490550 24535.471824s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/a56e9551-c359-494b-acb6-721685347b2c
+2017-01-08T16:18:08.519500748 24535.471833s info: Table a56e9551-c359-494b-acb6-721685347b2c: Deleted the table.
+2017-01-08T16:18:08.610538964 24535.562872s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/2193f789-690b-4bc6-8442-861d6e56101b
+2017-01-08T16:18:08.610550379 24535.562883s info: Table 2193f789-690b-4bc6-8442-861d6e56101b: Deleted the table.
+2017-01-08T16:18:08.650590828 24535.602924s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/e857d8a7-0b00-4656-bd7a-360d0a46bd0e
+2017-01-08T16:18:08.650598029 24535.602931s info: Table e857d8a7-0b00-4656-bd7a-360d0a46bd0e: Deleted the table.
+2017-01-08T16:18:08.753278298 24535.705611s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/3ccf7e3f-1870-45b6-bcad-a942c3bb035e
+2017-01-08T16:18:08.753287263 24535.705620s info: Table 3ccf7e3f-1870-45b6-bcad-a942c3bb035e: Deleted the table.
+2017-01-08T16:18:08.949274250 24535.901607s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/0990249b-dcb9-4965-bb8c-9396c34f5050
+2017-01-08T16:18:08.949296807 24535.901629s info: Table 0990249b-dcb9-4965-bb8c-9396c34f5050: Deleted the table.
+2017-01-08T16:18:08.989658882 24535.941992s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/ae48ce09-ab01-4452-a203-1384c2480a75
+2017-01-08T16:18:08.989667447 24535.942000s info: Table ae48ce09-ab01-4452-a203-1384c2480a75: Deleted the table.
+2017-01-08T16:28:33.578937630 25160.531271s info: Table cc90407a-ff96-4399-8e0f-aa7b1b27d283: Starting a new Raft election for term 1.
+2017-01-08T16:28:33.579933513 25160.532266s info: Table cc90407a-ff96-4399-8e0f-aa7b1b27d283: Added replica on this server.
+2017-01-08T16:28:33.699592292 25160.651926s info: Table b6d9091e-cedd-4b44-9366-8cedb4e71eb7: Starting a new Raft election for term 1.
+2017-01-08T16:28:33.700558707 25160.652892s info: Table b6d9091e-cedd-4b44-9366-8cedb4e71eb7: Added replica on this server.
+2017-01-08T16:28:33.820676621 25160.773011s info: Table 35cd934e-8c9d-4749-a8e6-b8d03c139ab6: Starting a new Raft election for term 1.
+2017-01-08T16:28:33.868889308 25160.821223s info: Table c6e2cafe-3609-4fc8-b148-3b109558eca7: Starting a new Raft election for term 1.
+2017-01-08T16:28:33.869056829 25160.821390s info: Table 35cd934e-8c9d-4749-a8e6-b8d03c139ab6: Added replica on this server.
+2017-01-08T16:28:33.869274368 25160.821607s info: Table c6e2cafe-3609-4fc8-b148-3b109558eca7: Added replica on this server.
+2017-01-08T16:28:33.900857065 25160.853191s info: Table a36376dd-bb3a-4845-b9be-15eb2d7b44bd: Starting a new Raft election for term 1.
+2017-01-08T16:28:33.923556046 25160.875890s info: Table a36376dd-bb3a-4845-b9be-15eb2d7b44bd: Added replica on this server.
+2017-01-08T16:28:33.924011194 25160.876345s info: Table ed46b6ec-781f-43e0-ac67-35526e137bdd: Starting a new Raft election for term 1.
+2017-01-08T16:28:33.924482593 25160.876816s info: Table ed46b6ec-781f-43e0-ac67-35526e137bdd: Added replica on this server.
+2017-01-08T16:28:33.983236807 25160.935570s info: Table cc90407a-ff96-4399-8e0f-aa7b1b27d283: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:33.983307259 25160.935640s info: Table b6d9091e-cedd-4b44-9366-8cedb4e71eb7: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:34.007585871 25160.959919s info: Table 35cd934e-8c9d-4749-a8e6-b8d03c139ab6: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:34.007630759 25160.959963s info: Table c6e2cafe-3609-4fc8-b148-3b109558eca7: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:34.007655455 25160.959988s info: Table a36376dd-bb3a-4845-b9be-15eb2d7b44bd: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:34.007688824 25160.960022s info: Table ed46b6ec-781f-43e0-ac67-35526e137bdd: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:35.077613678 25162.029948s info: Table b6d9091e-cedd-4b44-9366-8cedb4e71eb7: Configuration is changing.
+2017-01-08T16:28:35.186466319 25162.138800s info: Table cc90407a-ff96-4399-8e0f-aa7b1b27d283: Configuration is changing.
+2017-01-08T16:28:36.442478941 25163.394813s info: Table 0ccc5571-60fa-4775-96d9-dd01496bab66: Starting a new Raft election for term 1.
+2017-01-08T16:28:36.442767077 25163.395100s info: Table 0ccc5571-60fa-4775-96d9-dd01496bab66: Added replica on this server.
+2017-01-08T16:28:36.626272077 25163.578606s info: Table 0ccc5571-60fa-4775-96d9-dd01496bab66: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:36.628892181 25163.581225s info: Table ed46b6ec-781f-43e0-ac67-35526e137bdd: Configuration is changing.
+2017-01-08T16:28:36.629714287 25163.582048s info: Table a36376dd-bb3a-4845-b9be-15eb2d7b44bd: Configuration is changing.
+2017-01-08T16:28:36.631142369 25163.583476s info: Table 35cd934e-8c9d-4749-a8e6-b8d03c139ab6: Configuration is changing.
+2017-01-08T16:28:36.631208680 25163.583542s info: Table c6e2cafe-3609-4fc8-b148-3b109558eca7: Configuration is changing.
+2017-01-08T16:28:37.792544091 25164.744878s info: Table 138d2eea-7f0b-4574-be0d-1bb88bea4830: Starting a new Raft election for term 1.
+2017-01-08T16:28:37.792854212 25164.745187s info: Table 138d2eea-7f0b-4574-be0d-1bb88bea4830: Added replica on this server.
+2017-01-08T16:28:37.912923785 25164.865257s info: Table 138d2eea-7f0b-4574-be0d-1bb88bea4830: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:40.095813926 25167.048148s info: Table d3e38fe7-dbad-4a21-af7a-e34d6a768e7e: Starting a new Raft election for term 1.
+2017-01-08T16:28:40.096104002 25167.048437s info: Table d3e38fe7-dbad-4a21-af7a-e34d6a768e7e: Added replica on this server.
+2017-01-08T16:28:41.472135019 25168.424468s info: Table 8ccdf72e-eee4-4646-8c24-7105bc95e334: Starting a new Raft election for term 1.
+2017-01-08T16:28:41.501962905 25168.454296s info: Table 8ccdf72e-eee4-4646-8c24-7105bc95e334: Added replica on this server.
+2017-01-08T16:28:41.502064025 25168.454397s info: Table 180ffd86-408f-4a62-a5ff-8d98b4cf86e1: Starting a new Raft election for term 1.
+2017-01-08T16:28:41.524366585 25168.476700s info: Table 180ffd86-408f-4a62-a5ff-8d98b4cf86e1: Added replica on this server.
+2017-01-08T16:28:41.524703523 25168.477037s info: Table c358dfd4-59d1-4f74-b41a-2b5a3e7b1012: Starting a new Raft election for term 1.
+2017-01-08T16:28:41.524988333 25168.477321s info: Table c358dfd4-59d1-4f74-b41a-2b5a3e7b1012: Added replica on this server.
+2017-01-08T16:28:41.601911043 25168.554244s info: Table d3e38fe7-dbad-4a21-af7a-e34d6a768e7e: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:41.601994908 25168.554328s info: Table 8ccdf72e-eee4-4646-8c24-7105bc95e334: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:41.602032674 25168.554365s info: Table 180ffd86-408f-4a62-a5ff-8d98b4cf86e1: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:41.602078717 25168.554411s info: Table c358dfd4-59d1-4f74-b41a-2b5a3e7b1012: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:28:42.921865678 25169.874199s info: Table 8ccdf72e-eee4-4646-8c24-7105bc95e334: Configuration is changing.
+2017-01-08T16:28:42.922141723 25169.874474s info: Table 180ffd86-408f-4a62-a5ff-8d98b4cf86e1: Configuration is changing.
+2017-01-08T16:28:42.933018895 25169.885352s info: Table c358dfd4-59d1-4f74-b41a-2b5a3e7b1012: Configuration is changing.
+2017-01-08T16:28:43.251211389 25170.203545s info: Table 138d2eea-7f0b-4574-be0d-1bb88bea4830: Configuration is changing.
+2017-01-08T16:28:43.983195053 25170.935528s info: Table d3e38fe7-dbad-4a21-af7a-e34d6a768e7e: Configuration is changing.
+2017-01-08T16:28:44.398371967 25171.350705s info: Table 0ccc5571-60fa-4775-96d9-dd01496bab66: Configuration is changing.
+2017-01-08T16:28:46.087771566 25173.040105s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/180ffd86-408f-4a62-a5ff-8d98b4cf86e1
+2017-01-08T16:28:46.087798477 25173.040131s info: Table 180ffd86-408f-4a62-a5ff-8d98b4cf86e1: Deleted the table.
+2017-01-08T16:28:46.192066865 25173.144400s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/8ccdf72e-eee4-4646-8c24-7105bc95e334
+2017-01-08T16:28:46.192074286 25173.144407s info: Table 8ccdf72e-eee4-4646-8c24-7105bc95e334: Deleted the table.
+2017-01-08T16:28:46.283079555 25173.235413s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/35cd934e-8c9d-4749-a8e6-b8d03c139ab6
+2017-01-08T16:28:46.283094057 25173.235427s info: Table 35cd934e-8c9d-4749-a8e6-b8d03c139ab6: Deleted the table.
+2017-01-08T16:28:46.420505444 25173.372839s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/c358dfd4-59d1-4f74-b41a-2b5a3e7b1012
+2017-01-08T16:28:46.420517469 25173.372850s info: Table c358dfd4-59d1-4f74-b41a-2b5a3e7b1012: Deleted the table.
+2017-01-08T16:28:46.424334516 25173.376668s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/a36376dd-bb3a-4845-b9be-15eb2d7b44bd
+2017-01-08T16:28:46.424345252 25173.376678s info: Table a36376dd-bb3a-4845-b9be-15eb2d7b44bd: Deleted the table.
+2017-01-08T16:28:46.816943674 25173.769277s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/138d2eea-7f0b-4574-be0d-1bb88bea4830
+2017-01-08T16:28:46.816963997 25173.769297s info: Table 138d2eea-7f0b-4574-be0d-1bb88bea4830: Deleted the table.
+2017-01-08T16:28:47.148202355 25174.100535s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/d3e38fe7-dbad-4a21-af7a-e34d6a768e7e
+2017-01-08T16:28:47.148214803 25174.100548s info: Table d3e38fe7-dbad-4a21-af7a-e34d6a768e7e: Deleted the table.
+2017-01-08T16:28:47.245824584 25174.198158s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/0ccc5571-60fa-4775-96d9-dd01496bab66
+2017-01-08T16:28:47.245845712 25174.198178s info: Table 0ccc5571-60fa-4775-96d9-dd01496bab66: Deleted the table.
+2017-01-08T16:28:47.370354788 25174.322688s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/cc90407a-ff96-4399-8e0f-aa7b1b27d283
+2017-01-08T16:28:47.370366762 25174.322699s info: Table cc90407a-ff96-4399-8e0f-aa7b1b27d283: Deleted the table.
+2017-01-08T16:28:47.370570166 25174.322903s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/ed46b6ec-781f-43e0-ac67-35526e137bdd
+2017-01-08T16:28:47.370572132 25174.322905s info: Table ed46b6ec-781f-43e0-ac67-35526e137bdd: Deleted the table.
+2017-01-08T16:28:47.371638242 25174.323971s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/c6e2cafe-3609-4fc8-b148-3b109558eca7
+2017-01-08T16:28:47.371646709 25174.323979s info: Table c6e2cafe-3609-4fc8-b148-3b109558eca7: Deleted the table.
+2017-01-08T16:28:47.372620560 25174.324953s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/b6d9091e-cedd-4b44-9366-8cedb4e71eb7
+2017-01-08T16:28:47.372622608 25174.324955s info: Table b6d9091e-cedd-4b44-9366-8cedb4e71eb7: Deleted the table.
+2017-01-08T16:29:26.806706105 25213.759039s info: Table 1053ae43-c318-4112-a93d-c0ec30079f16: Starting a new Raft election for term 1.
+2017-01-08T16:29:26.807206263 25213.759539s info: Table bfc3e77e-1ade-47e9-97ae-99347c38eb5f: Starting a new Raft election for term 1.
+2017-01-08T16:29:26.807821979 25213.760155s info: Table 1053ae43-c318-4112-a93d-c0ec30079f16: Added replica on this server.
+2017-01-08T16:29:26.808072499 25213.760406s info: Table bfc3e77e-1ade-47e9-97ae-99347c38eb5f: Added replica on this server.
+2017-01-08T16:29:26.962169927 25213.914503s info: Table f04e3ec3-e199-4cf2-943f-7361597b541d: Starting a new Raft election for term 1.
+2017-01-08T16:29:26.984587619 25213.936921s info: Table 99980bc1-5a79-4b3c-932b-a1bcbdd63371: Starting a new Raft election for term 1.
+2017-01-08T16:29:27.019923659 25213.972257s info: Table f04e3ec3-e199-4cf2-943f-7361597b541d: Added replica on this server.
+2017-01-08T16:29:27.020159306 25213.972492s info: Table 99980bc1-5a79-4b3c-932b-a1bcbdd63371: Added replica on this server.
+2017-01-08T16:29:27.020164852 25213.972497s info: Table a40410fd-a001-48f7-b9a8-d0b9d5a47a27: Starting a new Raft election for term 1.
+2017-01-08T16:29:27.042722517 25213.995056s info: Table a40410fd-a001-48f7-b9a8-d0b9d5a47a27: Added replica on this server.
+2017-01-08T16:29:27.043066434 25213.995400s info: Table e707f5ed-3c35-447e-8862-a8b18d6891c7: Starting a new Raft election for term 1.
+2017-01-08T16:29:27.043543289 25213.995876s info: Table e707f5ed-3c35-447e-8862-a8b18d6891c7: Added replica on this server.
+2017-01-08T16:29:27.097787811 25214.050121s info: Table 1053ae43-c318-4112-a93d-c0ec30079f16: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:27.097896646 25214.050230s info: Table bfc3e77e-1ade-47e9-97ae-99347c38eb5f: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:27.125841121 25214.078174s info: Table f04e3ec3-e199-4cf2-943f-7361597b541d: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:27.125925763 25214.078259s info: Table 99980bc1-5a79-4b3c-932b-a1bcbdd63371: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:27.125987865 25214.078321s info: Table a40410fd-a001-48f7-b9a8-d0b9d5a47a27: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:27.126061195 25214.078394s info: Table e707f5ed-3c35-447e-8862-a8b18d6891c7: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:28.521780973 25215.474114s info: Table 1053ae43-c318-4112-a93d-c0ec30079f16: Configuration is changing.
+2017-01-08T16:29:29.784176179 25216.736509s info: Table 4f5aa4b1-7635-41a2-b2ec-96942ae9f32e: Starting a new Raft election for term 1.
+2017-01-08T16:29:29.784510695 25216.736844s info: Table 4f5aa4b1-7635-41a2-b2ec-96942ae9f32e: Added replica on this server.
+2017-01-08T16:29:30.016731036 25216.969065s info: Table 4f5aa4b1-7635-41a2-b2ec-96942ae9f32e: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:30.039338705 25216.991672s info: Table bfc3e77e-1ade-47e9-97ae-99347c38eb5f: Configuration is changing.
+2017-01-08T16:29:30.162932382 25217.115266s info: Table f04e3ec3-e199-4cf2-943f-7361597b541d: Configuration is changing.
+2017-01-08T16:29:30.163351921 25217.115685s info: Table 99980bc1-5a79-4b3c-932b-a1bcbdd63371: Configuration is changing.
+2017-01-08T16:29:30.164404767 25217.116738s info: Table a40410fd-a001-48f7-b9a8-d0b9d5a47a27: Configuration is changing.
+2017-01-08T16:29:30.164766960 25217.117100s info: Table e707f5ed-3c35-447e-8862-a8b18d6891c7: Configuration is changing.
+2017-01-08T16:29:33.748786093 25220.701119s info: Table 42d1f933-2d50-4b5d-90d5-5e0a61b15693: Starting a new Raft election for term 1.
+2017-01-08T16:29:33.748800629 25220.701133s info: Table 27ae1c2e-cb15-4209-9711-c6d9b52d0061: Starting a new Raft election for term 1.
+2017-01-08T16:29:33.809971070 25220.762305s info: Table 42d1f933-2d50-4b5d-90d5-5e0a61b15693: Added replica on this server.
+2017-01-08T16:29:33.810218183 25220.762552s info: Table 27ae1c2e-cb15-4209-9711-c6d9b52d0061: Added replica on this server.
+2017-01-08T16:29:33.810334222 25220.762667s info: Table 05a138c7-d8d6-498a-bf91-00be3b23295b: Starting a new Raft election for term 1.
+2017-01-08T16:29:33.810338261 25220.762671s info: Table 3bc553ed-eb0e-4395-8e66-89d72051f6d7: Starting a new Raft election for term 1.
+2017-01-08T16:29:33.885109521 25220.837444s info: Table 05a138c7-d8d6-498a-bf91-00be3b23295b: Added replica on this server.
+2017-01-08T16:29:33.885581851 25220.837916s info: Table 3bc553ed-eb0e-4395-8e66-89d72051f6d7: Added replica on this server.
+2017-01-08T16:29:33.886066906 25220.838401s info: Table 16049217-c2b1-4331-9acf-ceacba5f4904: Starting a new Raft election for term 1.
+2017-01-08T16:29:33.887787474 25220.840121s info: Table 16049217-c2b1-4331-9acf-ceacba5f4904: Added replica on this server.
+2017-01-08T16:29:34.109700275 25221.062033s info: Table 42d1f933-2d50-4b5d-90d5-5e0a61b15693: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:34.109869622 25221.062202s info: Table 27ae1c2e-cb15-4209-9711-c6d9b52d0061: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:34.109913778 25221.062246s info: Table 05a138c7-d8d6-498a-bf91-00be3b23295b: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:34.109949647 25221.062282s info: Table 3bc553ed-eb0e-4395-8e66-89d72051f6d7: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:34.109985166 25221.062318s info: Table 16049217-c2b1-4331-9acf-ceacba5f4904: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T16:29:35.136429458 25222.088763s info: Table 4f5aa4b1-7635-41a2-b2ec-96942ae9f32e: Configuration is changing.
+2017-01-08T16:29:35.923783981 25222.876117s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/1053ae43-c318-4112-a93d-c0ec30079f16
+2017-01-08T16:29:35.923794572 25222.876127s info: Table 1053ae43-c318-4112-a93d-c0ec30079f16: Deleted the table.
+2017-01-08T16:29:36.291228337 25223.243562s info: Table 16049217-c2b1-4331-9acf-ceacba5f4904: Configuration is changing.
+2017-01-08T16:29:36.291696532 25223.244030s info: Table 27ae1c2e-cb15-4209-9711-c6d9b52d0061: Configuration is changing.
+2017-01-08T16:29:36.292973642 25223.245307s info: Table 42d1f933-2d50-4b5d-90d5-5e0a61b15693: Configuration is changing.
+2017-01-08T16:29:36.293796105 25223.246129s info: Table 3bc553ed-eb0e-4395-8e66-89d72051f6d7: Configuration is changing.
+2017-01-08T16:29:36.434796581 25223.387131s info: Table 05a138c7-d8d6-498a-bf91-00be3b23295b: Configuration is changing.
+2017-01-08T16:29:37.688658813 25224.640993s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/4f5aa4b1-7635-41a2-b2ec-96942ae9f32e
+2017-01-08T16:29:37.688819985 25224.641153s info: Table 4f5aa4b1-7635-41a2-b2ec-96942ae9f32e: Deleted the table.
+2017-01-08T16:29:39.259584760 25226.211918s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/05a138c7-d8d6-498a-bf91-00be3b23295b
+2017-01-08T16:29:39.259601931 25226.211935s info: Table 05a138c7-d8d6-498a-bf91-00be3b23295b: Deleted the table.
+2017-01-08T16:29:39.448594411 25226.400928s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/3bc553ed-eb0e-4395-8e66-89d72051f6d7
+2017-01-08T16:29:39.448620777 25226.400954s info: Table 3bc553ed-eb0e-4395-8e66-89d72051f6d7: Deleted the table.
+2017-01-08T16:29:39.492883264 25226.445218s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/27ae1c2e-cb15-4209-9711-c6d9b52d0061
+2017-01-08T16:29:39.492908026 25226.445241s info: Table 27ae1c2e-cb15-4209-9711-c6d9b52d0061: Deleted the table.
+2017-01-08T16:29:39.624198101 25226.576531s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/16049217-c2b1-4331-9acf-ceacba5f4904
+2017-01-08T16:29:39.624212488 25226.576545s info: Table 16049217-c2b1-4331-9acf-ceacba5f4904: Deleted the table.
+2017-01-08T16:29:39.852069675 25226.804403s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/e707f5ed-3c35-447e-8862-a8b18d6891c7
+2017-01-08T16:29:39.852082730 25226.804416s info: Table e707f5ed-3c35-447e-8862-a8b18d6891c7: Deleted the table.
+2017-01-08T16:29:39.854731253 25226.807064s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/a40410fd-a001-48f7-b9a8-d0b9d5a47a27
+2017-01-08T16:29:39.854741050 25226.807074s info: Table a40410fd-a001-48f7-b9a8-d0b9d5a47a27: Deleted the table.
+2017-01-08T16:29:39.854808812 25226.807141s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/f04e3ec3-e199-4cf2-943f-7361597b541d
+2017-01-08T16:29:39.854809994 25226.807142s info: Table f04e3ec3-e199-4cf2-943f-7361597b541d: Deleted the table.
+2017-01-08T16:29:39.854861353 25226.807194s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/bfc3e77e-1ade-47e9-97ae-99347c38eb5f
+2017-01-08T16:29:39.854866128 25226.807199s info: Table bfc3e77e-1ade-47e9-97ae-99347c38eb5f: Deleted the table.
+2017-01-08T16:29:40.540898566 25227.493232s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/42d1f933-2d50-4b5d-90d5-5e0a61b15693
+2017-01-08T16:29:40.540908967 25227.493242s info: Table 42d1f933-2d50-4b5d-90d5-5e0a61b15693: Deleted the table.
+2017-01-08T16:29:40.619016384 25227.571349s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/99980bc1-5a79-4b3c-932b-a1bcbdd63371
+2017-01-08T16:29:40.619025588 25227.571358s info: Table 99980bc1-5a79-4b3c-932b-a1bcbdd63371: Deleted the table.
