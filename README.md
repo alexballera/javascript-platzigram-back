@@ -75,4 +75,16 @@ y en el navegador ingrasamos en **[http://localhost:8080](http://localhost:8080)
 ## Utilizaremos bluebird para el manejo de las promesas
 [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
 
+## Encriptar
+Utilizamos el modulo crypto de **node**  
+Ejecutamos desde la terminal:  
+```bash
+$ node
+> crypto = require('crypto')
+> shasum = crypto.createHash('sha256')
+> shasum.update('foo123')
+> shasum.digest('hex')
+```
+y así obtenemos el password encriptado  
+
 # "Video 8 Funcionalidad para obtener todas las imagenes"
