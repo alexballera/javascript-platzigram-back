@@ -332,3 +332,33 @@
 2017-01-08T11:31:45.911217065 7352.863550s info: Table 9075f2d8-faa8-489a-8e79-a62c4dc80ded: Deleted the table.
 2017-01-08T11:31:46.074892559 7353.027226s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/bc9d8293-e0fa-4371-8d6d-7e6bf73d4b50
 2017-01-08T11:31:46.074906110 7353.027239s info: Table bc9d8293-e0fa-4371-8d6d-7e6bf73d4b50: Deleted the table.
+2017-01-08T11:56:07.657445737 8814.609779s info: Table 4e232905-69f0-4064-9abf-8a0188c721a5: Starting a new Raft election for term 1.
+2017-01-08T11:56:07.657772074 8814.610105s info: Table 4e232905-69f0-4064-9abf-8a0188c721a5: Added replica on this server.
+2017-01-08T11:56:07.700749462 8814.653083s info: Table 4e232905-69f0-4064-9abf-8a0188c721a5: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T11:56:09.182223954 8816.134557s info: Table 2aa03698-fb52-4e89-9490-3540ae50d5c1: Starting a new Raft election for term 1.
+2017-01-08T11:56:09.182444642 8816.134777s info: Table 2aa03698-fb52-4e89-9490-3540ae50d5c1: Added replica on this server.
+2017-01-08T11:56:09.219497327 8816.171830s info: Table 2aa03698-fb52-4e89-9490-3540ae50d5c1: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T11:56:10.592658567 8817.544991s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/2aa03698-fb52-4e89-9490-3540ae50d5c1
+2017-01-08T11:56:10.592667198 8817.545000s info: Table 2aa03698-fb52-4e89-9490-3540ae50d5c1: Deleted the table.
+2017-01-08T11:56:10.619573913 8817.571907s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/4e232905-69f0-4064-9abf-8a0188c721a5
+2017-01-08T11:56:10.619582390 8817.571915s info: Table 4e232905-69f0-4064-9abf-8a0188c721a5: Deleted the table.
+2017-01-08T12:02:15.686942040 9182.639275s info: Table 2cd3d0c5-ab17-4cf2-bb21-6c111c878304: Starting a new Raft election for term 1.
+2017-01-08T12:02:15.687236351 9182.639570s info: Table 2cd3d0c5-ab17-4cf2-bb21-6c111c878304: Added replica on this server.
+2017-01-08T12:02:15.725215818 9182.677549s info: Table 2cd3d0c5-ab17-4cf2-bb21-6c111c878304: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T12:02:17.233618656 9184.185952s info: Table d3e72093-2766-4e0c-bd0b-1811e3cd0645: Starting a new Raft election for term 1.
+2017-01-08T12:02:17.234027047 9184.186360s info: Table d3e72093-2766-4e0c-bd0b-1811e3cd0645: Added replica on this server.
+2017-01-08T12:02:17.265464482 9184.217797s info: Table d3e72093-2766-4e0c-bd0b-1811e3cd0645: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T12:02:18.866515531 9185.818849s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/2cd3d0c5-ab17-4cf2-bb21-6c111c878304
+2017-01-08T12:02:18.866525993 9185.818859s info: Table 2cd3d0c5-ab17-4cf2-bb21-6c111c878304: Deleted the table.
+2017-01-08T12:02:19.447287199 9186.399620s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/d3e72093-2766-4e0c-bd0b-1811e3cd0645
+2017-01-08T12:02:19.447297832 9186.399631s info: Table d3e72093-2766-4e0c-bd0b-1811e3cd0645: Deleted the table.
+2017-01-08T12:08:26.576477517 9553.528811s info: Table a4f3bcd6-e683-4efd-a75e-bfa09badd986: Starting a new Raft election for term 1.
+2017-01-08T12:08:26.576785782 9553.529119s info: Table a4f3bcd6-e683-4efd-a75e-bfa09badd986: Added replica on this server.
+2017-01-08T12:08:26.621253001 9553.573587s info: Table a4f3bcd6-e683-4efd-a75e-bfa09badd986: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T12:08:27.990243508 9554.942577s info: Table fa0f3d2f-ea79-4f9b-b0ff-d65c471005f5: Starting a new Raft election for term 1.
+2017-01-08T12:08:27.990686415 9554.943020s info: Table fa0f3d2f-ea79-4f9b-b0ff-d65c471005f5: Added replica on this server.
+2017-01-08T12:08:28.029602259 9554.981935s info: Table fa0f3d2f-ea79-4f9b-b0ff-d65c471005f5: This server is Raft leader for term 1. Latest log index is 0.
+2017-01-08T12:08:29.250021268 9556.202354s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/a4f3bcd6-e683-4efd-a75e-bfa09badd986
+2017-01-08T12:08:29.250029095 9556.202362s info: Table a4f3bcd6-e683-4efd-a75e-bfa09badd986: Deleted the table.
+2017-01-08T12:08:29.387367531 9556.339701s notice: Removing file /home/alex/Documents/javascript/platzigram-back/rethinkdb_data/fa0f3d2f-ea79-4f9b-b0ff-d65c471005f5
+2017-01-08T12:08:29.387384918 9556.339718s info: Table fa0f3d2f-ea79-4f9b-b0ff-d65c471005f5: Deleted the table.
