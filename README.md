@@ -87,4 +87,4 @@ $ node
 ```
 y así obtenemos el password encriptado  
 
-# "Video 13 Implementado modulo de listar imagenes por usuario"
+# "Video 14 Implementado modulo de listar imagenes por tag"
