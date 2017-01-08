@@ -87,4 +87,4 @@ $ node
 ```
 y así obtenemos el password encriptado  
 
-# "Video 9 Creando usuario""
+# "Video 10 Peticion de un usuario desde la DB"
