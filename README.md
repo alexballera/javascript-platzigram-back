@@ -75,4 +75,4 @@ y en el navegador ingrasamos en **[http://localhost:8080](http://localhost:8080)
 ## Utilizaremos bluebird para el manejo de las promesas
 [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
 
-# "Video 5 "
+# "Video 5 Completado test para imagen en la DB"
