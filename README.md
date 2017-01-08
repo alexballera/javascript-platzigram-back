@@ -75,4 +75,4 @@ y en el navegador ingrasamos en **[http://localhost:8080](http://localhost:8080)
 ## Utilizaremos bluebird para el manejo de las promesas
 [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
 
-# "Video 7 Peticion de imagenes a la base de datos"
+# "Video 8 Funcionalidad para obtener todas las imagenes"
